@@ -1,0 +1,21 @@
+// Cart action types
+export const ADD_TO_CART = 'ADD_TO_CART';
+export const REMOVE_FROM_CART = 'REMOVE_FROM_CART';
+export const UPDATE_QUANTITY_CART = 'UPDATE_QUANTITY_CART';
+export const CLEAR_CART = 'CLEAR_CART';
+export const SORT_CART = 'SORT_CART';
+export const QUANTITY_TYPES_CART = {
+    INCREMENT: "INCREMENT",
+    DECREMENT: "DECREMENT"
+}
+
+// Product action types
+export const FETCH_PRODUCTS_REQUEST = 'FETCH_PRODUCTS_REQUEST';
+export const FETCH_PRODUCTS_SUCCESS = 'FETCH_PRODUCTS_SUCCESS';
+export const FETCH_PRODUCTS_FAILURE = 'FETCH_PRODUCTS_FAILURE';
+export const RECEIVE_PRODUCTS = 'RECEIVE_PRODUCTS';
+
+// Checkout action types
+export const CHECKOUT_REQUEST = 'CHECKOUT_REQUEST';
+export const CHECKOUT_SUCCESS = 'CHECKOUT_SUCCESS';
+export const CHECKOUT_FAILURE = 'CHECKOUT_FAILURE';

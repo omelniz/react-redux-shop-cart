@@ -1,0 +1,79 @@
+[
+	{
+		"id": 0,
+		"name": "Audi A6",
+		"year": 1998,
+		"price": 3070,
+		"photo": "http://s.auto.drom.ru/4/sales/photos/12548/12547427/ttn_140_94372346.jpg"
+	},
+	{
+		"id": 1,
+		"name": "Toyota Crown",
+		"year": 2004,
+		"price": 3900,
+		"photo": "http://s.auto.drom.ru/4/sales/photos/14961/14960270/ttn_140_114311233.jpg"
+	},
+	{
+		"id": 2,
+		"name": "Suzuki Escudo",
+		"year": 1993,
+		"price": 3200,
+		"photo": "http://s.auto.drom.ru/1/sales/photos/9231/9230715/ttn_140_109726306.jpg"
+	},
+	{
+		"id": 3,
+		"name": "Honda Civic",
+		"year": 2006,
+		"price": 3600,
+		"photo": "http://s.auto.drom.ru/1/sales/photos/14393/14392549/ttn_140_109634552.jpg"
+	},
+	{
+		"id": 4,
+		"name": "Nissan Note",
+		"year": 2009,
+		"price": 3150,
+		"photo": "http://s.auto.drom.ru/1/sales/photos/14352/14351890/ttn_140_109768810.jpg"
+	},
+	{
+		"id": 5,
+		"name": "Ford Focus",
+		"year": 2007,
+		"price": 3490,
+		"photo": "http://s.auto.drom.ru/4/sales/photos/15062/15061885/ttn_140_115185131.jpg"
+	},
+	{
+		"id": 6,
+		"name": "Peugeot 206",
+		"year": 2008,
+		"price": 3250,
+		"photo": "http://s.auto.drom.ru/4/sales/photos/15043/15042407/ttn_140_115021154.jpg"
+	},
+	{
+		"id": 7,
+		"name": "Honda Airwave",
+		"year": 2005,
+		"price": 3650,
+		"photo": "http://s.auto.drom.ru/4/sales/photos/14688/14687536/ttn_140_112385661.jpg"
+	},
+	{
+		"id": 8,
+		"name": "Toyota Crown",
+		"year": 2000,
+		"price": 3300,
+		"photo": "http://s.auto.drom.ru/4/sales/photos/15062/15061736/ttn_140_115183608.jpg"
+	},
+	{
+		"id": 9,
+		"name": "Hyundai Sonata",
+		"year": 2008,
+		"price": 3300,
+		"photo": "http://s.auto.drom.ru/4/sales/photos/14980/14979968/ttn_140_114480588.jpg"
+	},
+	{
+		"id": 10,
+		"name": "Subaru Forester",
+		"year": 2000,
+		"price": 3790,
+		"photo": "http://s.auto.drom.ru/4/sales/photos/13011/13010856/ttn_140_102606780.jpg"
+	}
+]
